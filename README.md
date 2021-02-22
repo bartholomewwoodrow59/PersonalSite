@@ -12,4 +12,5 @@ Narwall Tusk Tech - Web Designer
 
 
 # My fav place!
-![Image](https://imgur.com/a/pNXHNli)
+<img src="https://i.imgur.com/a/pNXHNli.png"/>
+
